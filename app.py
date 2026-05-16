@@ -12,7 +12,7 @@ st.set_page_config(
     layout="wide"
 )
 
-st.title("Simulación Monte Carlo Actuarial")
+st.title("Simulación Monte Carlo Actuarial - Miguel Argueta")
 st.write(
     "Aplicación basada en el notebook de simulación Monte Carlo para estimar pérdidas agregadas, "
     "prima pura, VaR, TVaR, insuficiencia de prima y un modelo predictivo simple."
