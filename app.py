@@ -7,7 +7,7 @@ from sklearn.linear_model import LinearRegression
 from sklearn.metrics import mean_absolute_error, r2_score
 
 st.set_page_config(
-    page_title="Simulación Monte Carlo Actuarial",
+    page_title="Simulación Monte Carlo Actuarial - Miguel Argueta",
     page_icon="📊",
     layout="wide"
 )
